@@ -1,0 +1,8 @@
+ofxAudioFile
+ofxMidi
+ofxOsc
+ofxPDSP
+ofxTweenzor
+ofxXmlSettings
+ofxVoidCore
+ofxVoidUi

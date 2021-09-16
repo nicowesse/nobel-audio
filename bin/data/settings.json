@@ -1,0 +1,76 @@
+{
+    "Graincloud": {
+        "Cloud": {
+            "Amp": "0.47033",
+            "Distance_Jitter": "6043",
+            "Length__ms_": "20000",
+            "Overlap": "0.6",
+            "Pitch": "0",
+            "Pitch_Jitter": "0.978261",
+            "Position": "0.310856",
+            "Position_Jitter": "0.708696"
+        },
+        "Cloud_Delay": {
+            "Amp": "0.434783",
+            "Damping": "0.373913",
+            "Feedback": "0.143478",
+            "Time__ms_": "96"
+        },
+        "Cloud_Filter": {
+            "Amp": "1",
+            "Cutoff": "60",
+            "Dry_Wet": "0",
+            "Mode": "0",
+            "Reso": "0"
+        },
+        "Cloud_Reverb": {
+            "Amp": "0.4",
+            "Damping": "0.965217",
+            "Density": "0.865217",
+            "Dry_Wet": "0.982626",
+            "Mod_Amount__ms_": "0.256522",
+            "Mod_Freq": "0.26087",
+            "Time__s_": "14"
+        },
+        "Delay_-__Reverb": "0.858333",
+        "Gain": "0",
+        "Megasynth": {
+            "Chorus": {
+                "Depth": "3.94545",
+                "Freq": "33"
+            },
+            "Enable_Additive_Synth": "1",
+            "Envelope": {
+                "Attack": "50",
+                "Decay": "400",
+                "Envelope_-__Filter": "30",
+                "Release": "900",
+                "Sustain": "1"
+            },
+            "Filter": {
+                "Cutoff": "29",
+                "Mode": "0",
+                "Reso": "0.427273"
+            },
+            "Gain": "0",
+            "LFO": {
+                "Freq": "34",
+                "LFO_-__Filter": "3",
+                "Wave": "4"
+            },
+            "Pitch": "34"
+        },
+        "Sample": "i_have_a_dream.wav|/Users/nico/Arbeid/Void/of/openFrameworks_v11/apps/void/nobel/bin/data/i_have_a_dream.wav|0",
+        "Sample_Factor": "0.3125",
+        "Synth_Reverb": {
+            "Amp": "0.852174",
+            "Damping": "0.834783",
+            "Density": "0.921739",
+            "Dry_Wet": "1",
+            "Mod_Amount__ms_": "0.8",
+            "Mod_Freq": "0.2",
+            "Time__s_": "20"
+        },
+        "Wave_Smoothing": "0.217708"
+    }
+}
